@@ -1,2 +1,2 @@
-# kibabii_university_theme
+# kibabii_university_wordpress_theme
 Kibabii University theme
